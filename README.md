@@ -1,1 +1,2 @@
 # Landing-Page
+This is my second Project given by The Odin Project. This is a landing page. I am on the last assignment of flexbox section which is this one. I am working hard to accomplish my goal. Inshallah Allah Almighty will help me in accomplishing this project. Today is 12th of August, 2026.
