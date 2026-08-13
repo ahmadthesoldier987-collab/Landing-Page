@@ -1,0 +1,68 @@
+header {
+    background-color: #1f2937;
+    height: 400px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.item,
+.logo {
+    font-size: 30px; 
+    color: white;
+    border:10px solid#1f2937;
+}
+.box {
+    display: flex;
+}
+.caption {
+    display: flex;
+    gap: 10px;
+}
+.item {
+    background-color: #1f2937;
+    border: none;
+}
+.logo {
+    font-weight: bold;
+}
+.mango {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.tech {
+    height: 300px;
+    width: 500px;
+}
+.welcome {
+    color: white;
+}
+.vegetable {
+    color: white;
+    font-size: 20px;
+}
+.btn {
+
+    color: white;
+    height: 30px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px aqua;
+    border-radius: 5px;
+}
+.heading {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.fruit {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
